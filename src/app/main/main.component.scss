@@ -1,0 +1,29 @@
+.maindiv{
+    // border: 1pc solid black;
+    background-image: url('/assets/images/download.svg');
+    text-align: center;
+    // margin-bottom: 20px;
+}
+.dom{
+    color: white;
+    // margin-bottom: 50px;
+    // margin-top: 50px;
+}
+.fromto{
+    // border: 1px solid black;
+
+}
+.border1px{
+    border: 1px solid grey;
+    border-radius: 8px;
+    &:hover{
+        cursor: pointer;
+        border: 2px solid grey ;
+    }
+}
+.fs-13px{
+    font-size: 13px;
+}
+.width{
+    width: 9rem;
+}
